@@ -246,19 +246,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Argo CD",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Claude Code",
           "type": "technology"
         }
       },
