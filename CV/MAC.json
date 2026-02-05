@@ -1,0 +1,471 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jorge",
+      "surnames": "Peris Ortuño",
+      "title": "Backend developer",
+      "description": "I am a geomatics engineer who transitioned into web development. I completed a bootcamp in 2016 and started as a full-stack developer before focusing on the backend. I’ve also dabbled in DevOps, which has broadened my backend perspective. I feel comfortable programming in Ruby on Rails and have used Terraform, Kubernetes, and AWS for infrastructure.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/22/ba29e314-6774-4590-bfaf-214df413d5e1_linkedin-photo-40802.linkedin-photo-40802",
+        "alt": "24/03/22/ba29e314-6774-4590-bfaf-214df413d5e1_linkedin-photo-40802.linkedin-photo-40802"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJh14zFWtJYA0RWdoxvb4Vtuk)",
+        "country": "España",
+        "region": "Comunidad Valenciana"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jorper"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jorgeperis"
+      },
+      {
+        "type": "other",
+        "URL": "https://peris.me/",
+        "description": "Web personal"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "NEW WORK SE",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/22/fdc4fc37-d02d-439a-ada7-cd340b7efb3f_linkedin-photo-40802.linkedin-photo-40802",
+            "alt": "24/03/22/fdc4fc37-d02d-439a-ada7-cd340b7efb3f_linkedin-photo-40802.linkedin-photo-40802"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2021-05-01",
+            "finishDate": "2026-01-01",
+            "challenges": [
+              {
+                "description": "I worked as a backend developer building scalable web applications and APIs, leveraging a robust tech stack including Ruby on Rails for core logic, GraphQL for efficient APIs, MySQL and Redis for reliable data storage and caching, plus AWS, Terraform, Kubernetes, and Argo CD for cloud infrastructure, container orchestration, and automated deployments."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Argo CD",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "YAML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TIMP",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/22/2328d486-54d8-4e32-b72f-13958ce783af_linkedin-photo-40802.linkedin-photo-40802",
+            "alt": "24/03/22/2328d486-54d8-4e32-b72f-13958ce783af_linkedin-photo-40802.linkedin-photo-40802"
+          }
+        },
+        "roles": [
+          {
+            "name": "Backend developer",
+            "startDate": "2019-06-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "Worked as a backend developer using Ruby on Rails"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "Heroku",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Quipu",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/22/9aa0ee83-588e-4787-a5ca-ee3c36947664_linkedin-photo-40802.linkedin-photo-40802",
+            "alt": "24/03/22/9aa0ee83-588e-4787-a5ca-ee3c36947664_linkedin-photo-40802.linkedin-photo-40802"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack developer",
+            "startDate": "2016-09-01",
+            "finishDate": "2019-06-30",
+            "challenges": [
+              {
+                "description": "Worked as a full-stack developer using Ruby on Rails and React."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GLOBAL MEDITERRANEA - ABENGOA - INECO"
+        },
+        "roles": [
+          {
+            "name": "Senior Building Surveyor",
+            "startDate": "2011-08-01",
+            "finishDate": "2016-01-01",
+            "challenges": [
+              {
+                "description": "Professional experience as a land surveyor across various firms in the topography sector."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Autocad",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Argo CD",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Claude Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero técnico en topografía",
+        "startDate": "2004-01-01",
+        "institution": {
+          "name": "Universitat Politècnica de València (UPV)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/22/781ccc2e-fa68-4229-bbbf-dc0053e03970_linkedin-photo-40802.linkedin-photo-40802",
+            "alt": "24/03/22/781ccc2e-fa68-4229-bbbf-dc0053e03970_linkedin-photo-40802.linkedin-photo-40802"
+          }
+        },
+        "finishDate": "2009-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero técnico en topografía (Erasmus, Latvia)",
+        "startDate": "2007-01-01",
+        "institution": {
+          "name": "Rīgas Tehniskā universitāte (Riga Technical University)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/22/923a5a05-9b33-4e75-8b15-81f3d011806c_linkedin-photo-40802.linkedin-photo-40802",
+            "alt": "24/03/22/923a5a05-9b33-4e75-8b15-81f3d011806c_linkedin-photo-40802.linkedin-photo-40802"
+          }
+        },
+        "finishDate": "2007-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero técnico en topografía (Final Degree Project in México)",
+        "startDate": "2009-01-01",
+        "institution": {
+          "name": "Universidad de Colima",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/22/1c067b51-8ced-4597-a681-0b0fc513e652_linkedin-photo-40802.linkedin-photo-40802",
+            "alt": "24/03/22/1c067b51-8ced-4597-a681-0b0fc513e652_linkedin-photo-40802.linkedin-photo-40802"
+          }
+        },
+        "finishDate": "2009-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Web development, Ruby on rails, javascript, css, html",
+        "startDate": "2016-01-01",
+        "institution": {
+          "name": "Ironhack",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/22/e2416607-59f6-481c-adbb-709919fabd5b_linkedin-photo-40802.linkedin-photo-40802",
+            "alt": "24/03/22/e2416607-59f6-481c-adbb-709919fabd5b_linkedin-photo-40802.linkedin-photo-40802"
+          }
+        },
+        "finishDate": "2016-08-01",
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Ruby on Rails",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacity for abstract thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/jorper",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/jorgeperis",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Argo CD",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Ruby",
+        "type": "technology"
+      },
+      {
+        "name": "Ruby on Rails",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "My ideal job would allow me to integrate a variety of different tasks into my day-to-day work, things like investigating new solutions and testing concepts to then put them into practice. I'd love a creative role with useful results for the business"
+  }
+}
