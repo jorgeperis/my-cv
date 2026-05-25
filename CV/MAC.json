@@ -197,7 +197,11 @@
       },
       {
         "organization": {
-          "name": "GLOBAL MEDITERRANEA - ABENGOA - INECO"
+          "name": "GLOBAL MEDITERRANEA - ABENGOA - INECO",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/25/8bf3bb6c-2792-4c8c-b8bc-c7dbc8b36883_logo_azul-removebg-p.png",
+            "alt": "logo_azul-removebg-preview-2.png"
+          }
         },
         "roles": [
           {
