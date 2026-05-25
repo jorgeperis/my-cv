@@ -40,10 +40,10 @@
     "jobs": [
       {
         "organization": {
-          "name": "NEW WORK SE",
+          "name": "XING",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/22/fdc4fc37-d02d-439a-ada7-cd340b7efb3f_linkedin-photo-40802.linkedin-photo-40802",
-            "alt": "24/03/22/fdc4fc37-d02d-439a-ada7-cd340b7efb3f_linkedin-photo-40802.linkedin-photo-40802"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/05/25/9bd201e5-13e2-47d7-9957-942710cf49d4_xing_logo.jpeg",
+            "alt": "xing_logo.jpeg"
           }
         },
         "roles": [
